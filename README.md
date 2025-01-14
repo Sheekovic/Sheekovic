@@ -12,10 +12,13 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 * 🚀  I'm currently working on [SHeeKryptor](http://github.com/Sheekovic/SheeKryptor)
 * 🧠  I'm learning Python, JS, CSS, HTML
 * ⚡  I'm Batman, but don't tell anyone
+  
+![GitHub followers](https://img.shields.io/github/followers/sheekovic?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/sheekovic?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Sheekovic/SheeKryptor?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/sheekovic/sheekryptor?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/sheekovic/sheekovic?style=for-the-badge)
 
-<a href="https://www.github.com/Sheekovic" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sheekovic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/Sheekovic/SheeKryptor)
 
 
 ### Skills
