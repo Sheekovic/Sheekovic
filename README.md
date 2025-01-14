@@ -1,4 +1,4 @@
-Ahmed AKA (SHEEKOVIC)
+Ahmed aka (SHEEKOVIC)
 ======================================
 
 Polymath. Autodidact
