@@ -18,6 +18,7 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Sheekovic/SheeKryptor?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/sheekovic/sheekryptor?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/sheekovic/sheekovic?style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/fd33f4d1-363e-46bb-839d-c11edd1a437f.svg?style=for-the-badge)](https://wakatime.com/@fd33f4d1-363e-46bb-839d-c11edd1a437f)
 
 
 
@@ -41,7 +42,7 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheekovic&layout=donut&theme=merko)]
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sheekovic&theme=merko)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sheekovic&theme=merko)]
 
 ### Support Me
 
