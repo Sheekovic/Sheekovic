@@ -42,7 +42,7 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheekovic&layout=donut&theme=merko)]
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sheekovic&theme=merko)]
+[![Sheekovic's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sheekovic&theme=merko)]
 
 ### Support Me
 
