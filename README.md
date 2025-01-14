@@ -46,7 +46,7 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 
 ### Support Me
 
-<div style="display: flex; justify-content: center; gap: 0.5rem;">
+<div style="display: flex; justify-content: center; gap: 1.5 rem;">
   <a href="https://www.buymeacoffee.com/sheekovic">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="width: 25%;" />
   </a>
