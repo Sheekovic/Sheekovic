@@ -1,4 +1,4 @@
-Hi 👋 My name is Ahmed AKA (SHEEKOVIC)
+Ahmed AKA (SHEEKOVIC)
 ======================================
 
 Polymath. Autodidact
