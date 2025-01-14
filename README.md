@@ -4,8 +4,6 @@ Hi 👋 My name is Ahmed AKA (SHEEKOVIC)
 Polymath. Autodidact
 -----------
 
-![Profile Views](https://komarev.com/ghpvc/?username=sheekovic&color=blue)
-
 I am a deeply curious individual driven by an insatiable thirst for knowledge. I thrive on exploring new concepts, understanding how things work, and uncovering connections between seemingly unrelated ideas. Learning is not just a task for me—it’s a passion and a lifelong journey. I see every experience as an opportunity to grow and evolve, always asking "why" and "how" to deepen my understanding of the world around me. My love for learning extends beyond a single field; I embrace diversity in knowledge, eagerly diving into topics ranging from science and technology to philosophy, art, and culture. I believe that expanding my horizons and stepping outside my comfort zone fuels personal growth and creativity. I’m a natural problem-solver, approaching challenges with a sense of curiosity and innovation. Mistakes or setbacks don’t deter me; instead, they inspire me to adapt and learn from the experience. I take pride in being a lifelong learner, constantly seeking ways to better myself and contribute to the world through what I’ve discovered. Ultimately, my passion for learning isn’t just about gaining information—it’s about applying that knowledge to make meaningful connections, solve real-world problems, and inspire others to embark on their own journeys of discovery.
 
 * 🌍  I'm based in Cairo, Egypt
@@ -17,6 +15,8 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 
 <a href="https://www.github.com/Sheekovic" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sheekovic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/Sheekovic/SheeKryptor)
+
 
 ### Skills
 
