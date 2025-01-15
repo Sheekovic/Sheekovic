@@ -40,7 +40,7 @@ I am a deeply curious individual driven by an insatiable thirst for knowledge. I
 
 ![Sheekovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheekovic&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheekovic&layout=donut&theme=merko)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheekovic&layout=donut&theme=merko)
 
 ### Support Me
 
